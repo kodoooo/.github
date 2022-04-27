@@ -1,4 +1,4 @@
-<img width="100%" src="../img/banner.jpg" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
+<img width="100%" src="https://github.com/kodoooo/.github/blob/main/img/banner.jpg" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
 
 <br />
 
